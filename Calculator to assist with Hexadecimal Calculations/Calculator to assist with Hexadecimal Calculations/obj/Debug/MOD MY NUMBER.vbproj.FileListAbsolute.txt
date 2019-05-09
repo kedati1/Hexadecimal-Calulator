@@ -1,0 +1,10 @@
+C:\Users\1172397\AppData\Local\Temporary Projects\MOD MY NUMBER\bin\Debug\MOD MY NUMBER.exe.config
+C:\Users\1172397\AppData\Local\Temporary Projects\MOD MY NUMBER\obj\Debug\MOD_MY_NUMBER.Resources.resources
+C:\Users\1172397\AppData\Local\Temporary Projects\MOD MY NUMBER\obj\Debug\MOD MY NUMBER.vbproj.GenerateResource.Cache
+C:\Users\1172397\AppData\Local\Temporary Projects\MOD MY NUMBER\bin\Debug\MOD MY NUMBER.exe
+C:\Users\1172397\AppData\Local\Temporary Projects\MOD MY NUMBER\bin\Debug\MOD MY NUMBER.pdb
+C:\Users\1172397\AppData\Local\Temporary Projects\MOD MY NUMBER\bin\Debug\MOD MY NUMBER.xml
+C:\Users\1172397\AppData\Local\Temporary Projects\MOD MY NUMBER\obj\Debug\MOD MY NUMBER.exe
+C:\Users\1172397\AppData\Local\Temporary Projects\MOD MY NUMBER\obj\Debug\MOD MY NUMBER.xml
+C:\Users\1172397\AppData\Local\Temporary Projects\MOD MY NUMBER\obj\Debug\MOD MY NUMBER.pdb
+C:\Users\1172397\AppData\Local\Temporary Projects\MOD MY NUMBER\obj\Debug\MOD_MY_NUMBER.ModCalculator.resources

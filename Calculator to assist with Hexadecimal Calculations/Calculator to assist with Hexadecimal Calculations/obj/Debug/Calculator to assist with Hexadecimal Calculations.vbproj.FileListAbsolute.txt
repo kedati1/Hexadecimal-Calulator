@@ -1,0 +1,21 @@
+F:\Programming\Projects\Excercises\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\bin\Debug\Calculator to assist with Hexadecimal Calculations.exe.config
+O:\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\bin\Debug\Calculator to assist with Hexadecimal Calculations.exe.config
+O:\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\bin\Debug\Calculator to assist with Hexadecimal Calculations.exe
+O:\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\bin\Debug\Calculator to assist with Hexadecimal Calculations.pdb
+O:\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\bin\Debug\Calculator to assist with Hexadecimal Calculations.xml
+O:\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\obj\Debug\MOD_MY_NUMBER.ModCalculator.resources
+O:\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\obj\Debug\MOD_MY_NUMBER.Resources.resources
+O:\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\obj\Debug\Calculator to assist with Hexadecimal Calculations.vbproj.GenerateResource.Cache
+O:\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\obj\Debug\Calculator to assist with Hexadecimal Calculations.exe
+O:\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\obj\Debug\Calculator to assist with Hexadecimal Calculations.xml
+O:\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\obj\Debug\Calculator to assist with Hexadecimal Calculations.pdb
+C:\Users\Kevin\OneDrive - Bracknell & Wokingham College\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\bin\Debug\Calculator to assist with Hexadecimal Calculations.exe.config
+C:\Users\Kevin\OneDrive - Bracknell & Wokingham College\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\obj\Debug\Calculator to assist with Hexadecimal Calculations.exe
+C:\Users\Kevin\OneDrive - Bracknell & Wokingham College\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\obj\Debug\Calculator to assist with Hexadecimal Calculations.xml
+C:\Users\Kevin\OneDrive - Bracknell & Wokingham College\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\obj\Debug\Calculator to assist with Hexadecimal Calculations.pdb
+C:\Users\Kevin\OneDrive - Bracknell & Wokingham College\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\bin\Debug\Calculator to assist with Hexadecimal Calculations.exe
+C:\Users\Kevin\OneDrive - Bracknell & Wokingham College\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\bin\Debug\Calculator to assist with Hexadecimal Calculations.pdb
+C:\Users\Kevin\OneDrive - Bracknell & Wokingham College\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\bin\Debug\Calculator to assist with Hexadecimal Calculations.xml
+C:\Users\Kevin\OneDrive - Bracknell & Wokingham College\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\obj\Debug\MOD_MY_NUMBER.ModCalculator.resources
+C:\Users\Kevin\OneDrive - Bracknell & Wokingham College\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\obj\Debug\MOD_MY_NUMBER.Resources.resources
+C:\Users\Kevin\OneDrive - Bracknell & Wokingham College\Maths\Calculator to assist with Hexadecimal Calculations\Calculator to assist with Hexadecimal Calculations\obj\Debug\Calculator to assist with Hexadecimal Calculations.vbproj.GenerateResource.Cache
